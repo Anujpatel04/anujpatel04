@@ -18,3 +18,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anujpatel04/anujpatel04/output/snake.svg">
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/anujpatel04/anujpatel04/output/snake.svg">
 </picture>
+
