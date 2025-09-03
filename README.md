@@ -14,8 +14,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anujpatel04/anujpatel04/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anujpatel04/anujpatel04/output/snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/anujpatel04/anujpatel04/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karanlvm/karanlvm/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karanlvm/karanlvm/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anujpatel04/anujpatel04/output/snake.svg">
 </picture>
 
+###
