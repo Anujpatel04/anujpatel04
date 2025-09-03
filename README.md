@@ -20,12 +20,5 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anujpatel04&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujpatel04&layout=compact&theme=radical)  
-
----
-
 ## 🐍 Contribution Snake  
 ![Snake animation](https://github.com/anujpatel04/anujpatel04/blob/output/snake.svg)
