@@ -1,56 +1,22 @@
 # 👋 Hi, I'm Anuj Patel  
 
-🎓 MS-CS (AI/ML) Student @ UTA  
-💻 Backend Developer | Data Science & AI Enthusiast  
-⚡ Exploring LLMs, Multi-Agent Systems, and Scalable Backend APIs  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=36BCF7&vCenter=true&lines=MS+CS+(AI%2FML)+@+UTA;Backend+Developer;AI+%7C+ML+%7C+LLMs+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently building **LLM-powered apps** (CrewAI, Ollama, LangChain)  
-- 🛠️ Strong in **Backend Development** (FastAPI, Flask, MySQL, Docker, AWS)  
-- 📊 Experienced in **Data Science, Machine Learning, NLP, Deep Learning**  
-- 💡 Love solving real-world problems with AI & automation  
-- 🌐 Portfolio: *(add link to your portfolio site if available)*  
-
----
-
-## 🛠️ Tech Stack  
-
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-
-**Frameworks & Tools:**  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)  
-
-**Data Science & AI:**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)  
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)  
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)  
+- 🔭 Building **LLM-powered apps** (CrewAI, Ollama, LangChain)  
+- 🛠️ Skilled in **Backend Development** (FastAPI, Flask, MySQL, Docker, AWS)  
+- 📊 Experienced in **AI/ML, NLP, Deep Learning**  
+- 💡 Passionate about solving real-world problems with AI & automation  
 
 ---
 
 ## 📌 Featured Projects  
-
-🔹 [**Multi-Agent Email Automation**](#)  
-Automates support email classification, response generation & analytics using LLMs (CrewAI + Ollama).  
-
-🔹 [**Streamlit Expense Bill Processor**](#)  
-OCR + LLM pipeline to extract and organize scanned expense bills, exportable to Excel.  
-
-🔹 [**Demand Forecasting with ML**](#)  
-Implemented decision tree/XGBoost for forecasting product demand, optimized accuracy over time-series models.  
-
-🔹 [**Backend APIs with FastAPI & MySQL**](#)  
-Developed secure REST APIs with authentication & Docker deployment.  
+🔹 **Multi-Agent Email Automation** – Automates support email classification & responses using LLMs  
+🔹 **Streamlit Expense Bill Processor** – OCR + LLM pipeline to extract and organize scanned bills  
+🔹 **Demand Forecasting (ML)** – XGBoost/Decision Trees for predictive analytics  
+🔹 **Backend APIs with FastAPI & MySQL** – Secure REST APIs with Docker deployment  
 
 ---
 
@@ -61,12 +27,5 @@ Developed secure REST APIs with authentication & Docker deployment.
 
 ---
 
-## 📫 Connect With Me  
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/anujpatel04)  
-- 📧 Email: anujpatel04@example.com  
-- 🐙 [GitHub](https://github.com/anujpatel04)  
-
----
-
-⭐️ From [anujpatel04](https://github.com/anujpatel04)
+## 🐍 Contribution Snake  
+![Snake animation](https://github.com/anujpatel04/anujpatel04/blob/output/snake.svg)
