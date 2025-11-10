@@ -4,9 +4,6 @@
 🎓 MS CS (AI/ML) @ University of Texas at Arlington | 🧠 AI • ML • LLMs • Backend Enthusiast
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anujpatel04&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="150" alt="AI animation" />
@@ -59,8 +56,6 @@
 | **🧾 Expense Bill OCR App** | Extracts structured data from scanned bills using OCR + LLMs. | Streamlit, Google Vision, Hugging Face |  
 | **🏠 Property Repair Classifier** | End-to-end AI pipeline to detect and classify property repair needs from documents, videos, and images. | Deep Learning, NLP, Python |  
 | **🤖 A2A (Agent-to-Agent) Framework** | Experimental multi-agent system enabling agents to plan, delegate, and collaborate intelligently. | CrewAI, Llama3.2, Vector DB |
-
-> 🧩 *Check out more projects in my [Public Portfolio](https://github.com/Anujpatel04?tab=repositories)*
 
 ---
 
