@@ -87,15 +87,5 @@
 
 ---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anujpatel04/anujpatel04/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anujpatel04/anujpatel04/output/snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/anujpatel04/anujpatel04/output/snake.svg" />
-  </picture>
-</p>
-
----
-
 ### ✨ “Building intelligent systems that work — not just think.”  
 <p align="center">— Anuj Patel</p>
