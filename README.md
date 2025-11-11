@@ -62,11 +62,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anujpatel04&show_icons=true&theme=tokyonight" height="160" alt="Anuj's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujpatel04&theme=tokyonight" height="160" alt="Anuj's GitHub streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anujpatel04&theme=tokyo-night" alt="Anuj's Activity Graph" />
 </p>
 
