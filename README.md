@@ -48,17 +48,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| **🎯 Multi-Agent Email Automation** | Multi-agent pipeline that classifies, routes, and responds to support emails autonomously using LLMs. | FastAPI, LangChain, Ollama, JSON |  
-| **🧾 Expense Bill OCR App** | Extracts structured data from scanned bills using OCR + LLMs. | Streamlit, Google Vision, Hugging Face |  
-| **🏠 Property Repair Classifier** | End-to-end AI pipeline to detect and classify property repair needs from documents, videos, and images. | Deep Learning, NLP, Python |  
-| **🤖 A2A (Agent-to-Agent) Framework** | Experimental multi-agent system enabling agents to plan, delegate, and collaborate intelligently. | CrewAI, Llama3.2, Vector DB |
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
