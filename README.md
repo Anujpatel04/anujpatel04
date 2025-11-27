@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Anuj Patel</h1>
+<h1 align="center">Hi, I'm Anuj Patel</h1>
 
 <h3 align="center">
-🎓 MS CS (AI/ML) @ University of Texas at Arlington | 🧠 AI • ML • LLMs • Backend Enthusiast
+MS CS (AI/ML) @ University of Texas at Arlington | AI • ML • LLMs • Backend Enthusiast
 </h3>
 
 
@@ -11,18 +11,18 @@
 
 ---
 
-### 🧩 About Me
+###  About Me
 
-🚀 I’m a **Backend Developer** and **AI Enthusiast** passionate about building intelligent systems that connect data, logic, and automation.  
-💡 My work combines **Machine Learning**, **Deep Learning**, and **Large Language Models (LLMs)** to create **scalable, agentic, and data-driven systems**.  
-🔍 Currently exploring **multi-agent frameworks**, **LLM orchestration**, and **AI infrastructure** using **CrewAI**, **LangChain**, and **Ollama**.  
-🎯 Focused on developing **real-world backend + AI integrations** that push automation boundaries.
+ I’m a **Backend Developer** and **AI Enthusiast** passionate about building intelligent systems that connect data, logic, and automation.  
+ My work combines **Machine Learning**, **Deep Learning**, and **Large Language Models (LLMs)** to create **scalable, agentic, and data-driven systems**.  
+ Currently exploring **multi-agent frameworks**, **LLM orchestration**, and **AI infrastructure** using **CrewAI**, **LangChain**, and **Ollama**.  
+ Focused on developing **real-world backend + AI integrations** that push automation boundaries.
 
 ---
 
-### ⚙️ Tech Stack
+###  Tech Stack
 
-#### 💻 Languages & Frameworks
+####  Languages & Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,fastapi,flask,django" />
 </p>
@@ -40,7 +40,7 @@
   <img src="https://skillicons.dev/icons?i=docker,aws,github,gitlab" />
 </p>
 
-#### 🧠 Current Focus
+####  Current Focus
 - Agentic AI Systems (CrewAI, Ollama, LangChain)  
 - LLM Application Development & Automation  
 - MLOps & Scalable Backend Architectures  
@@ -48,7 +48,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anujpatel04&theme=tokyo-night" alt="Anuj's Activity Graph" />
@@ -56,7 +56,7 @@
 
 ---
 
-### 🧠 Skills & Tools
+###  Skills & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -71,7 +71,7 @@
 
 ---
 
-### 🌐 Connect with Me
+###  Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anujpatel04" target="_blank">
@@ -87,5 +87,5 @@
 
 ---
 
-### ✨ “Building intelligent systems that work — not just think.”  
+###  “Building intelligent systems that work — not just think. ✨”  
 <p align="center"><b>— Anuj Patel</b></p>
