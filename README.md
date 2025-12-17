@@ -48,14 +48,6 @@ MS CS (AI/ML) @ University of Texas at Arlington | AI • ML • LLMs • Backen
 
 ---
 
-###  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anujpatel04&theme=tokyo-night" alt="Anuj's Activity Graph" />
-</p>
-
----
-
 ###  Skills & Tools
 
 <p align="center">
