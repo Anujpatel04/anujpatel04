@@ -27,7 +27,7 @@ MS CS (AI/ML) @ University of Texas at Arlington | AI • ML • LLMs • Backen
   <img src="https://skillicons.dev/icons?i=python,cpp,java,fastapi,flask,django" />
 </p>
 
-#### 🤖 AI / ML & Data Science
+####  AI / ML & Data Science
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
@@ -35,7 +35,7 @@ MS CS (AI/ML) @ University of Texas at Arlington | AI • ML • LLMs • Backen
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
 </p>
 
-#### ☁️ DevOps & MLOps
+####  DevOps & MLOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,aws,github,gitlab" />
 </p>
