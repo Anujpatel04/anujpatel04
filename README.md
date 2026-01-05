@@ -13,11 +13,8 @@ MS CS (AI/ML) @ University of Texas at Arlington | AI • ML • LLMs • Backen
 
 ###  About Me
 
- I’m a **Backend Developer** and **AI Enthusiast** passionate about building intelligent systems that connect data, logic, and automation.  
- My work combines **Machine Learning**, **Deep Learning**, and **Large Language Models (LLMs)** to create **scalable, agentic, and data-driven systems**.  
- Currently exploring **multi-agent frameworks**, **LLM orchestration**, and **AI infrastructure** using **CrewAI**, **LangChain**, and **Ollama**.  
- Focused on developing **real-world backend + AI integrations** that push automation boundaries.
-
+Data Scientist specializing in ML, Deep Learning, and LLM-driven analytics.
+Focused on building scalable, agentic, and data-driven systems for real-world decision making and automation.
 ---
 
 ###  Tech Stack
